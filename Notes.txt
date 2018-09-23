@@ -1,0 +1,3 @@
+# LearningGit
+This is a poem about Rainbows.
+We are in the main branch.
